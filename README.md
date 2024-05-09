@@ -4,7 +4,7 @@ This interactive dashboard provides valuable insights into key metrics, includin
 
 Key Features:
 
-• Sales Overview: Visualize total sales revenue over time with interactive charts and graphs, allowing for detailed analysis of sales trends.
+• Sales Overview: Visualize total sales revenue over time with interactive charts and graphs, allowing for detailed analysis of sales trends.       
 • Product Analysis: Explore product performance by category and subcategory, enabling better inventory management and marketing strategies.
 • Customer Segmentation: Understand customer behavior and preferences through demographic analysis, aiding in targeted marketing efforts.
 • Geographical Insights: View sales distribution across regions with map visualizations, identifying high-performing areas and potential growth opportunities.
