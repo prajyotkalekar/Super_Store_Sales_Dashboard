@@ -4,14 +4,16 @@ This interactive dashboard provides valuable insights into key metrics, includin
 
 Key Features:
 
-Sales Overview: Visualize total sales revenue over time with interactive charts and graphs, allowing for detailed analysis of sales trends.
-Product Analysis: Explore product performance by category and subcategory, enabling better inventory management and marketing strategies.
-Customer Segmentation: Understand customer behavior and preferences through demographic analysis, aiding in targeted marketing efforts.
-Geographical Insights: View sales distribution across regions with map visualizations, identifying high-performing areas and potential growth opportunities.
+• Sales Overview: Visualize total sales revenue over time with interactive charts and graphs, allowing for detailed analysis of sales trends.
+• Product Analysis: Explore product performance by category and subcategory, enabling better inventory management and marketing strategies.
+• Customer Segmentation: Understand customer behavior and preferences through demographic analysis, aiding in targeted marketing efforts.
+• Geographical Insights: View sales distribution across regions with map visualizations, identifying high-performing areas and potential growth opportunities.
+
 Technologies Used:
 
-Power BI: Leveraged for data visualization and interactive dashboard creation.
-GitHub Hosting: Hosted on GitHub for seamless sharing and collaboration, ensuring accessibility and version control.
+• Power BI: Leveraged for data visualization and interactive dashboard creation.
+• GitHub Hosting: Hosted on GitHub for seamless sharing and collaboration, ensuring accessibility and version control.
+
 Impact:
 
 This dashboard empowers stakeholders to make data-driven decisions, optimize sales strategies, and drive business growth by harnessing the power of visual analytics and real-time insights.
