@@ -17,3 +17,7 @@ This interactive dashboard provides valuable insights into key metrics, includin
 <b>Impact:</b>
 
 This dashboard empowers stakeholders to make data-driven decisions, optimize sales strategies, and drive business growth by harnessing the power of visual analytics and real-time insights.
+
+![SuperStore Sales Dashboard](https://github.com/prajyotkalekar/Super_Store_Sales_Dashboard/assets/141732867/5f9a63f3-5141-4efb-9fcd-d10ccccd6017)
+
+![SuperStore Sales Dashboard - Forecast](https://github.com/prajyotkalekar/Super_Store_Sales_Dashboard/assets/141732867/87b32844-7e90-4848-8fb9-e18957faa3d4)
