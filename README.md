@@ -3,16 +3,20 @@ Explore my Super Store Sales Dashboard, a dynamic visualization of sales perform
 This interactive dashboard provides valuable insights into key metrics, including sales revenue, product categories, customer segments, and geographical distribution.
 
 <h3>Key Features:</h3>
-<hr>
+
 • Sales Overview: Visualize total sales revenue over time with interactive charts and graphs, allowing for detailed analysis of sales trends.<br>
 • Product Analysis: Explore product performance by category and subcategory, enabling better inventory management and marketing strategies.<br>
 • Customer Segmentation: Understand customer behavior and preferences through demographic analysis, aiding in targeted marketing efforts.<br>
 • Geographical Insights: View sales distribution across regions with map visualizations, identifying high-performing areas and potential growth opportunities.<br>
 
-<h3>Technologies Used:</h3>
 <hr>
+
+<h3>Technologies Used:</h3>
+
 • Power BI: Leveraged for data visualization and interactive dashboard creation.<br>
 • GitHub Hosting: Hosted on GitHub for seamless sharing and collaboration, ensuring accessibility and version control.
+
+<hr>
 
 <h3>Impact:</h3>
 
