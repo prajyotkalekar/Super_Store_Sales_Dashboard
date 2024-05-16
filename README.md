@@ -1,10 +1,14 @@
-# Super_Store_Sales_Dashboard
+<h2 align = "Center">Super_Store_Sales_Dashboard</h2>
+<h3>Overview:</h3>
+
 Explore my Super Store Sales Dashboard, a dynamic visualization of sales performance and trends, developed using Power BI and hosted on GitHub. 
 This interactive dashboard provides valuable insights into key metrics, including sales revenue, product categories, customer segments, and geographical distribution.
 
 <hr>
 
 <h3>Objective:</h3>
+
+To contribute to success of business by utilizing data analysis techniques, specifically focusing on time series analysis , to provide valuable insights and accurate sales forecasting.
 
 <hr>
 
