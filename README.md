@@ -21,7 +21,7 @@ The primary objective of the Super Store Sales Dashboard is to enable stakeholde
 
 <h3>Key Features:</h3>
 
-• <ul>Sales Overview</ul>: Visualize total sales revenue over time with interactive charts and graphs, allowing for detailed analysis of sales trends.<br>
+• Sales Overview: Visualize total sales revenue over time with interactive charts and graphs, allowing for detailed analysis of sales trends.<br>
 
 • Product Analysis: Explore product performance by category and subcategory, enabling better inventory management and marketing strategies.<br>
 
