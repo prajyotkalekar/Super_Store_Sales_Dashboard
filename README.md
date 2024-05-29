@@ -1,4 +1,4 @@
-<h2 align = "Center">Super_Store_Sales_Dashboard</h2>
+<h2 align = "Center">Super_Store_Sales_Dashboard <img src="images/web-analytics.png" alt="" height="35" width="55"/></h2>
 <h3>Overview:</h3>
 
 The Super Store Sales Dashboard is a comprehensive visual representation of sales data for a retail business. It provides insights into various aspects of the business's performance, including sales volume, profit, and order metrics, as well as detailed breakdowns by region, category, and other relevant segments. The dashboard consists of two primary views: the current sales dashboard and a 15-day sales forecast.
