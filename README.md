@@ -39,7 +39,6 @@ The primary objective of the Super Store Sales Dashboard is to enable stakeholde
 <hr>
 
 <h3>Impact:</h3>
-
 1. Enhanced Decision-Making: The dashboard provides a clear and concise view of critical business metrics, enabling management to make informed decisions quickly.
 
 2. Trend Identification: The visual representation of sales data over time helps identify seasonal trends and sales spikes, facilitating better planning and resource allocation.
